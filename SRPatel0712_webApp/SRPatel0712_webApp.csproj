@@ -65,6 +65,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\SP.png" />
     <Content Include="packages.config" />
     <Content Include="css\jquery-countryselector.css.map" />
     <Content Include="css\jquery-countryselector.less" />
