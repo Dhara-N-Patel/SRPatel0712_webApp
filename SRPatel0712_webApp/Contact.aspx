@@ -96,13 +96,13 @@
                                 <asp:TextBox ID="form_email" class="form-control textbox center-block" runat="server" placeholder="Work Email *" required="required"></asp:TextBox>
                             </div>
                             <div class="form-group">
-                                <asp:TextBox ID="form_phone" class="form-control textbox center-block" runat="server" placeholder="Work Phone *" required="required"></asp:TextBox>
+                                <asp:TextBox ID="form_phone" class="form-control textbox center-block" runat="server" placeholder="Work Phone"></asp:TextBox>
                             </div>
                             <div class="form-group">
                                 <select id="country" class="form-control textbox center-block" value="USA" data-code-mode="alpha3" data-role="country-selector" style="margin-bottom: 2%; font-size: 12pt;"></select>
                             </div>
                             <div class="form-group">
-                                <asp:TextBox ID="form_Company" class="form-control textbox center-block" runat="server" placeholder="Company Name *" required="required"></asp:TextBox>
+                                <asp:TextBox ID="form_Company" class="form-control textbox center-block" runat="server" placeholder="Company Name"></asp:TextBox>
                             </div>
                             <div class="form-group">
                                 <asp:TextBox ID="form_message" class="form-control textbox center-block" runat="server" placeholder="Message *" TextMode="MultiLine" required="required"></asp:TextBox>
