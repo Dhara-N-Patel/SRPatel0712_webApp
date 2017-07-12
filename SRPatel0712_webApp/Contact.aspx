@@ -56,13 +56,13 @@
                 <ul class="nav navbar-nav" style="font-weight:bolder;">
                    
                     <li><a href="HomePage.html"><strong>Home</strong></a></li>
-                    <%--<li><a href="About.html" target="_blank"><strong>About</strong></a></li>--%>
+                    <li><a href="About.html" target="_blank"><strong>About</strong></a></li>
                     <li class="active"><a href="Contact.aspx" target="_blank"><strong>Contact</strong></a></li>
                     <li>
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><strong>Links</strong><b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="https://www.linkedin.com/in/sagarpatel0712/" style="color:black;"><strong>LinkedIN</strong></a></li>
-                            <li><a href="https://drive.google.com/file/d/0B2CPiIt37lDgTEhSUDV3cTNEeGM/view?usp=sharing" style="color:black;"><strong>Resume</strong></a></li>
+                            <li><a href="https://drive.google.com/open?id=0B1vIAYTwT2x-LTlVZmppTEpaRVU" style="color:black;"><strong>Resume</strong></a></li>
                         </ul>
                     </li>
                 </ul>
